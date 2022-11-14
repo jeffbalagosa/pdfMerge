@@ -6,7 +6,7 @@ Simple script that merges all .pdf files in the /input folder, then outputs them
 
 ## Features:
 
-If your project has multiple features, list them here. Don’t be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
+Tbd...
 
 ## Requirements:
 
@@ -28,11 +28,7 @@ If your project has multiple features, list them here. Don’t be afraid to brag
 
 ## Technologies:
 
-List all the technologies and/or frameworks you used and what purpose they serve in your project.
-
-## Collaborators:
-
-If others have contributed to your project in any way, it is important to give them credit for their work. Write your team members’ or collaborators’ names here along with a link to their GitHub profile.
+Tbd...
 
 ## License:
 
