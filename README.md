@@ -2,16 +2,19 @@
 
 ## Description:
 
-Simple script that merges all .pdf files in the /input folder, then outputs them to the /output folder.
+Simple script that merges multiple PDF files into one. No clunky interfaces, pressure to purchase, or ads to deal with.
 
 ## Features:
 
-Tbd...
+- Combine as many PDFs as you want!
+- Lightweight!
+- Simple to use!
 
 ## Requirements:
 
-1. [Python3](https://www.python.org/downloads/)
-2. [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
+- [Python3](https://www.python.org/downloads/)
+- [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
+- Windows 10 OS or later.
 
 ## How to Use:
 
@@ -28,7 +31,9 @@ Tbd...
 
 ## Technologies:
 
-Tbd...
+- Python
+- Windows Terminal
+- PyPDF2 Library
 
 ## License:
 
