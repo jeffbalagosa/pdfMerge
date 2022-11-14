@@ -2,7 +2,7 @@
 
 ## Description:
 
-This is an extremely important component of the README. You should describe the main purpose of your project. Answer questions like “why did you build this project?” and “what problem(s) does it solve?”. It also helps to include your motivations for the project and what you learned from it.
+Simple script that merges all .pdf files in /the folder, then outputs them to the /output folder.
 
 ## Features:
 
@@ -10,7 +10,7 @@ If your project has multiple features, list them here. Don’t be afraid to brag
 
 ## How to Use:
 
-Here, you should write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed here.
+1. You'll first need to install the **PyPDF2** library. Click [here](https://pypdf2.readthedocs.io/en/latest/user/installation.html) for instructions. (Don't worry, it's easy!)
 
 ## Technologies:
 
