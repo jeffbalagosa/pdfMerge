@@ -14,7 +14,7 @@ Simple script that merges multiple PDF files into one. No clunky interfaces, pre
 
 - [Python3](https://www.python.org/downloads/)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
-- Windows 10 OS or later.
+- Windows 10 OS or later, to run the .bat file. But main.py will run on any terminal.
 
 ## How to Use:
 
