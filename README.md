@@ -8,9 +8,16 @@ Simple script that merges all .pdf files in the /input folder, then outputs them
 
 If your project has multiple features, list them here. Don’t be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
 
+## Requirements:
+
+1. Install [Python3](https://www.python.org/downloads/)
+2. Install [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
+
 ## How to Use:
 
-1. You'll first need to install the **PyPDF2** library. Click [here](https://pypdf2.readthedocs.io/en/latest/user/installation.html) for instructions. (Don't worry, it's easy!)
+1. Place all your .pdf files in the input directory.
+   - Keep in mind the script will merge everything in alphabetical order. So rename files, if you have to.
+2. Open a terminal and run the script with _python main.py_
 
 ## Technologies:
 
