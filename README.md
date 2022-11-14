@@ -15,9 +15,16 @@ If your project has multiple features, list them here. Don’t be afraid to brag
 
 ## How to Use:
 
-1. Place all your .pdf files in the input directory.
+1. Place all your .pdf files in the _input_ directory.
    - Keep in mind the script will merge everything in alphabetical order. So rename files, if you have to.
-2. Open a terminal and run the script with _python main.py_
+2. Double click on _run.bat_
+3. Name the output file.
+   - Leave off the _.pdf_ extension.
+   - Leave blank to default to _\_merged.pdf_.
+4. Press _Enter_.
+5. Choose 'y' or 'n' if you'd like to delete the contents of the input folder
+   - Note: **THIS IS PERMANENT**
+6. Retrieve your merged file from the _output_ directory.
 
 ## Technologies:
 
