@@ -10,8 +10,8 @@ Tbd...
 
 ## Requirements:
 
-1. Install [Python3](https://www.python.org/downloads/)
-2. Install [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
+1. [Python3](https://www.python.org/downloads/)
+2. [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
 
 ## How to Use:
 
