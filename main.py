@@ -19,5 +19,5 @@ merger.close()
 delete_files = input('Permanently delete files in input folder? (y/n): ')
 if delete_files.lower() == 'y':
     for filename in os.listdir(input_folder):
-        if filename.endswith('.pdf' or '.PDF') or filename.endswith('.PDF'):
+        if filename.endswith('.pdf') or filename.endswith('.PDF'):
             os.remove(f'{input_folder}/' + filename)
