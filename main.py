@@ -12,7 +12,11 @@ for filename in os.listdir(input_folder):
     if filename.endswith('.pdf') or filename.endswith('.PDF'):
         merger.append(f'{input_folder}/' + filename)
 
-merger.write(f'output/{output_file_name}.pdf')
+# if output_file_name does not end with .pdf, add it
+if not output_file_name.endswith('.pdf'):
+    output_file_name += '.pdf'
+
+merger.write(f'output/{output_file_name}')
 merger.close()
 
 # ask if user wants to delete the files in the /input folder

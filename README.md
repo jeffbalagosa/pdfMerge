@@ -19,7 +19,7 @@ Tbd...
    - Keep in mind the script will merge everything in alphabetical order. So rename files, if you have to.
 2. Double click on _run.bat_
 3. Name the output file when prompted.
-   - Leave off the _.pdf_ extension.
+   - You can leave off the _.pdf_ extension.
    - Leave blank to default to _\_merged.pdf_.
 4. Press _Enter_.
 5. Choose 'y' or 'n' if you'd like to delete the contents of the input folder, when prompted.
