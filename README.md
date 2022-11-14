@@ -1,4 +1,4 @@
-# Project: Example Project
+# Project: PDF Merge
 
 ## Description:
 
