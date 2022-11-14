@@ -15,15 +15,15 @@ Tbd...
 
 ## How to Use:
 
-1. Place all your .pdf files in the _input_ directory.
+1. Copy the .pdf files you want to merge into the _input_ directory.
    - Keep in mind the script will merge everything in alphabetical order. So rename files, if you have to.
 2. Double click on _run.bat_
-3. Name the output file.
+3. Name the output file when prompted.
    - Leave off the _.pdf_ extension.
    - Leave blank to default to _\_merged.pdf_.
 4. Press _Enter_.
-5. Choose 'y' or 'n' if you'd like to delete the contents of the input folder
-   - Note: **THIS IS PERMANENT**
+5. Choose 'y' or 'n' if you'd like to delete the contents of the input folder, when prompted.
+   - Note: **THIS DELETE IS PERMANENT**
 6. Retrieve your merged file from the _output_ directory.
 
 ## Technologies:
