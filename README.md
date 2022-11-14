@@ -14,13 +14,14 @@ Simple script that merges multiple PDF files into one. No clunky interfaces, pre
 
 - [Python3](https://www.python.org/downloads/)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/latest/user/installation.html)
-- Windows 10 OS or later, to run the .bat file. But main.py will run on any terminal.
+- Windows 10 OS or later, to run the .bat file. But main.py will run on any terminal as long as you've installed the two above.
 
 ## How to Use:
 
 1. Copy the .pdf files you want to merge into the _input_ directory.
    - Keep in mind the script will merge everything in alphabetical order. So rename files, if you have to.
 2. Double click on _run.bat_
+   - Or you can use the command _python main.py_ from a non-Windows terminal.
 3. Name the output file when prompted.
    - You can leave off the _.pdf_ extension.
    - Leave blank to default to _\_merged.pdf_.
