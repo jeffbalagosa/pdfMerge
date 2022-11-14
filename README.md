@@ -2,7 +2,7 @@
 
 ## Description:
 
-Simple script that merges all .pdf files in /the folder, then outputs them to the /output folder.
+Simple script that merges all .pdf files in the /input folder, then outputs them to the /output folder.
 
 ## Features:
 
