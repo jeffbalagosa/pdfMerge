@@ -1,3 +1,13 @@
-from PyPDF2 import PdfMerger 
+from PyPDF2 import PdfMerger
+import os
 
-pdfs = []
+output_file_name = 'output/output.pdf'
+
+# merge all pdf files in the /input folder
+merger = PdfMerger()
+for filename in os.listdir('input'):
+    if filename.endswith('.pdf'):
+        merger.append('input/' + filename)
+
+merger.write(output_file_name)
+merger.close()
