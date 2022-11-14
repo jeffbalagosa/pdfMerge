@@ -2,7 +2,7 @@
 
 ## Description:
 
-Simple script that merges multiple PDF files into one. No clunky interfaces, pressure to purchase, or ads to deal with.
+Simple script that merges multiple PDF files into one. No clunky interfaces, pressure to purchase, or ads to deal with. Runs locally, so no need to worry about some sketchy website stealing our data.
 
 ## Features:
 
