@@ -34,7 +34,7 @@ pip install PyPDF2
 pip install --user PyPDF2
 ```
 
-Here's the install PyPDF2 [docs](https://pypdf2.readthedocs.io/en/latest/user/installation.html) if you need more info.
+Here's the PyPDF2 install [docs](https://pypdf2.readthedocs.io/en/latest/user/installation.html) if you need more info.
 
 ### This App
 
