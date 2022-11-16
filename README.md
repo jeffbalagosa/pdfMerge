@@ -36,19 +36,26 @@ pip install --user PyPDF2
 
 Here's the install [docs](https://pypdf2.readthedocs.io/en/latest/user/installation.html) if you need more info.
 
+### This App
+
+- Once you have Python and PyPDF2 installed. You can download the [zip](https://github.com/jeffbalagosa/pdfMerge/archive/refs/heads/main.zip) file from here.
+- Extract it to wherever you want.
+- And follow the instructions below!
+
 ## How to Use:
 
-1. Copy the .pdf files you want to merge into the _input_ directory.
+1. Navigate into the _pdfMerge_ directory. (Could be named _pdfMerge-main_, depending on how you downloaded it.)
+2. Copy the .pdf files you want to merge into the _input_ directory.
    - Keep in mind the script will merge everything in alphabetical order. So rename files, if you have to.
-2. Double click on _run.bat_
-   - Or you can use the command _python main.py_ from a non-Windows terminal.
-3. Name the output file when prompted.
+3. Double click on _run.bat_
+   - Or you can use the command _python main.py_ from whatever terminal you use.
+4. Name the output file when prompted.
    - You can leave off the _.pdf_ extension.
    - Leave blank to default to _\_merged.pdf_.
-4. Press _Enter_.
-5. Choose 'y' or 'n' if you'd like to delete the contents of the input folder, when prompted.
+5. Press _Enter_.
+6. Choose 'y' or 'n' if you'd like to delete the contents of the input folder, when prompted.
    - Note: **THIS DELETE IS PERMANENT**
-6. Retrieve your merged file from the _output_ directory.
+7. Retrieve your merged file from the _output_ directory.
 
 ## Technologies:
 
