@@ -16,11 +16,11 @@ Simple script that merges multiple PDF files into one. No clunky interfaces, pre
 
 ## Installation:
 
-### Python 3
+### Install Python 3
 
 Download and run the [installer](https://www.python.org/downloads/)
 
-### PyPDF2
+### Install PyPDF2
 
 Once you have Python installed. Open a terminal use this command to install PyPDF2.
 
