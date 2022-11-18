@@ -36,7 +36,7 @@ pip install --user PyPDF2
 
 Here's the PyPDF2 install [docs](https://pypdf2.readthedocs.io/en/latest/user/installation.html) if you need more info.
 
-### This App
+### Install This App
 
 - Once you have Python and PyPDF2 installed. You can download the [zip](https://github.com/jeffbalagosa/pdfMerge/archive/refs/heads/main.zip) file from here.
 - Extract it to wherever you want.
